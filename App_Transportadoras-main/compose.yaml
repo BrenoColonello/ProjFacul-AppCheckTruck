@@ -1,0 +1,17 @@
+services:
+  db:
+    image: postgres
+    environment:
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: Senha123
+    ports:
+      - "5432:5432"
+  
+  admin:
+    image: elestio/pgadmin
+    environment:
+        PGADMIN_DEFAULT_EMAIL: root@unimar.br
+        PGADMIN_DEFAULT_PASSWORD: Senha123
+        PGADMIN_LISTEN_PORT: 9090
+    ports:
+      - "9090:9090"

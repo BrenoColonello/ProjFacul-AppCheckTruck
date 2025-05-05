@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "transportadores.dominio", "transportadores.dominio\transportadores.dominio.csproj", "{7118440B-3E10-4122-AC6C-AB9972B2C974}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "transportadores.api", "transportadores.api\transportadores.api.csproj", "{023ED09C-8492-4A5A-8287-BE43F971D88C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "transportadores.servicos", "transportadores.servicos\transportadores.servicos.csproj", "{D642F09B-33CF-4DCB-99C1-236BFB9AAFAA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "transportadores.infra", "transportadores.infra\transportadores.infra.csproj", "{6C153BEE-BD8D-44A1-A3DE-C11306408372}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7118440B-3E10-4122-AC6C-AB9972B2C974}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7118440B-3E10-4122-AC6C-AB9972B2C974}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7118440B-3E10-4122-AC6C-AB9972B2C974}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7118440B-3E10-4122-AC6C-AB9972B2C974}.Release|Any CPU.Build.0 = Release|Any CPU
+		{023ED09C-8492-4A5A-8287-BE43F971D88C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{023ED09C-8492-4A5A-8287-BE43F971D88C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{023ED09C-8492-4A5A-8287-BE43F971D88C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{023ED09C-8492-4A5A-8287-BE43F971D88C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D642F09B-33CF-4DCB-99C1-236BFB9AAFAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D642F09B-33CF-4DCB-99C1-236BFB9AAFAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D642F09B-33CF-4DCB-99C1-236BFB9AAFAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D642F09B-33CF-4DCB-99C1-236BFB9AAFAA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6C153BEE-BD8D-44A1-A3DE-C11306408372}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C153BEE-BD8D-44A1-A3DE-C11306408372}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C153BEE-BD8D-44A1-A3DE-C11306408372}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C153BEE-BD8D-44A1-A3DE-C11306408372}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

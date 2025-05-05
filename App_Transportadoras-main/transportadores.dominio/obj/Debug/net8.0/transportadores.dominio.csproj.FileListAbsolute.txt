@@ -1,0 +1,12 @@
+C:\Users\Administrador\dev\App_Transportadoras\transportadores.dominio\bin\Debug\net8.0\transportadores.dominio.deps.json
+C:\Users\Administrador\dev\App_Transportadoras\transportadores.dominio\bin\Debug\net8.0\transportadores.dominio.dll
+C:\Users\Administrador\dev\App_Transportadoras\transportadores.dominio\bin\Debug\net8.0\transportadores.dominio.pdb
+C:\Users\Administrador\dev\App_Transportadoras\transportadores.dominio\obj\Debug\net8.0\transportadores.dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrador\dev\App_Transportadoras\transportadores.dominio\obj\Debug\net8.0\transportadores.dominio.AssemblyInfoInputs.cache
+C:\Users\Administrador\dev\App_Transportadoras\transportadores.dominio\obj\Debug\net8.0\transportadores.dominio.AssemblyInfo.cs
+C:\Users\Administrador\dev\App_Transportadoras\transportadores.dominio\obj\Debug\net8.0\transportadores.dominio.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\dev\App_Transportadoras\transportadores.dominio\obj\Debug\net8.0\transportadores.dominio.sourcelink.json
+C:\Users\Administrador\dev\App_Transportadoras\transportadores.dominio\obj\Debug\net8.0\transportadores.dominio.dll
+C:\Users\Administrador\dev\App_Transportadoras\transportadores.dominio\obj\Debug\net8.0\refint\transportadores.dominio.dll
+C:\Users\Administrador\dev\App_Transportadoras\transportadores.dominio\obj\Debug\net8.0\transportadores.dominio.pdb
+C:\Users\Administrador\dev\App_Transportadoras\transportadores.dominio\obj\Debug\net8.0\ref\transportadores.dominio.dll
